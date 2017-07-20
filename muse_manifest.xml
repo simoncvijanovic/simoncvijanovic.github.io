@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500518288691">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500518453161">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="473681430" ref="index"/>
+    <file name="index.css" crc="4123516198" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="landingart.bmp" crc="165791448" seo="true" mt="1500518024000"/>
@@ -24,5 +24,5 @@
     <file name="mailicon-up.png" crc="362329856" ref="index"/>
     <file name="mailicon-over.png" crc="365077892" ref="index"/>
   </folder>
-  <file name="index.html" crc="450836499" seo="true" mt="1500518250165" redirect="true"/>
+  <file name="index.html" crc="3950729587" seo="true" mt="1500518401298" redirect="true"/>
 </manifest>

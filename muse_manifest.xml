@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500517848473">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500518138180">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3835157620" ref="index"/>
+    <file name="index.css" crc="248536749" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="landingart.bmp" crc="9826848" seo="true" mt="1500508163000"/>
+    <file name="landingart.bmp" crc="165791448" seo="true" mt="1500518024000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -16,7 +16,7 @@
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="landingart.jpg" crc="3803603326" seo="true" ref="index"/>
+    <file name="landingart.jpg" crc="229094269" seo="true" ref="index"/>
     <file name="twittericon-up.png" crc="4015460158" ref="index"/>
     <file name="twittericon-over.png" crc="490595221" ref="index"/>
     <file name="igicon-layer 2.png" crc="192812822" ref="index"/>
@@ -24,5 +24,5 @@
     <file name="mailicon-up.png" crc="362329856" ref="index"/>
     <file name="mailicon-over.png" crc="365077892" ref="index"/>
   </folder>
-  <file name="index.html" crc="3877400031" seo="true" mt="1500517823223" redirect="true"/>
+  <file name="index.html" crc="432321391" seo="true" mt="1500518108811" redirect="true"/>
 </manifest>

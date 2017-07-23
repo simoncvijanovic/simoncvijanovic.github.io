@@ -1,10 +1,12 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500518453161">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500854089476">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4123516198" ref="index"/>
+    <file name="index.css" crc="3858741309" ref="index"/>
+    <file name="nomq_index.css" crc="4122059234" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="landingart.bmp" crc="165791448" seo="true" mt="1500518024000"/>
+    <file name="landingart.bmp" crc="354135000" seo="true" mt="1500849645000"/>
+    <file name="landingart2.bmp" crc="354135000" seo="true" mt="1500849645000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -13,16 +15,25 @@
     <file name="museconfig.js" crc="169177150" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
     <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="landingart.jpg" crc="229094269" seo="true" ref="index"/>
-    <file name="twittericon-up.png" crc="4015460158" ref="index"/>
-    <file name="twittericon-over.png" crc="490595221" ref="index"/>
-    <file name="igicon-layer 2.png" crc="192812822" ref="index"/>
-    <file name="igicon-layer 3.png" crc="3898574187" ref="index"/>
-    <file name="mailicon-up.png" crc="362329856" ref="index"/>
-    <file name="mailicon-over.png" crc="365077892" ref="index"/>
+    <file name="landingart.png" crc="535341763" seo="true" ref="index"/>
+    <file name="twittericon-up.png" crc="100776720" ref="index"/>
+    <file name="twittericon-over.png" crc="503429030" ref="index"/>
+    <file name="igicon-layer 2.png" crc="3823056750" ref="index"/>
+    <file name="igicon-layer 3.png" crc="464320745" ref="index"/>
+    <file name="mailicon-up.png" crc="429306196" ref="index"/>
+    <file name="mailicon-over.png" crc="4096995956" ref="index"/>
+    <file name="landingart331x328.png" crc="3941660447" seo="true" ref="index"/>
+    <file name="igicon-u143-fr.png" crc="79399606" ref="index"/>
+    <file name="igicon-u143-r-fr.png" crc="184555333" ref="index"/>
+    <file name="twittericon-u160-fr.png" crc="466344637" ref="index"/>
+    <file name="twittericon-u160-r-fr.png" crc="327119087" ref="index"/>
+    <file name="mailicon-u177-fr.png" crc="330462974" ref="index"/>
+    <file name="mailicon-u177-r-fr.png" crc="4185825076" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3950729587" seo="true" mt="1500518401298" redirect="true"/>
+  <file name="index.html" crc="261605155" seo="true" mt="1500854055031" redirect="true"/>
 </manifest>

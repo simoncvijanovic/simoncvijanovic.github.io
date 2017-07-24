@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500860857828">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500861251114">
   <folder name="css">
     <file name="site_global.css" crc="4041403569"/>
     <file name="index.css" crc="3795872575" ref="index"/>
@@ -14,7 +14,7 @@
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="coming-soon-favicon.ico" crc="198891917" ref="index"/>
+    <file name="coming-soon-favicon.ico" crc="118047666" ref="index"/>
     <file name="landingart.png" crc="535341763" seo="true" ref="index"/>
     <file name="twittericon.jpg" crc="386876246" seo="true" ref="index"/>
     <file name="igicon.jpg" crc="535525527" seo="true" ref="index"/>
@@ -22,5 +22,5 @@
     <file name="landingart331x328.png" crc="3941660447" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3979641584" seo="true" mt="1500860791034" redirect="true"/>
+  <file name="index.html" crc="412162295" seo="true" mt="1500861223531" redirect="true"/>
 </manifest>

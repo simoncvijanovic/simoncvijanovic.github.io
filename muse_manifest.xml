@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500854688807">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500858736644">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4252116958" ref="index"/>
-    <file name="nomq_index.css" crc="4190888896" ref="index"/>
+    <file name="site_global.css" crc="4041403569"/>
+    <file name="index.css" crc="4251205552" ref="index"/>
+    <file name="nomq_index.css" crc="100977613" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -31,5 +31,5 @@
     <file name="mailicon-u177-r-fr.png" crc="4185825076" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3923203801" seo="true" mt="1500854576640" redirect="true"/>
+  <file name="index.html" crc="510676819" seo="true" mt="1500858045996" redirect="true"/>
 </manifest>

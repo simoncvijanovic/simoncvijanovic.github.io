@@ -1,12 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500854089476">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500854688807">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3858741309" ref="index"/>
-    <file name="nomq_index.css" crc="4122059234" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="landingart.bmp" crc="354135000" seo="true" mt="1500849645000"/>
-    <file name="landingart2.bmp" crc="354135000" seo="true" mt="1500849645000"/>
+    <file name="index.css" crc="4252116958" ref="index"/>
+    <file name="nomq_index.css" crc="4190888896" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -35,5 +31,5 @@
     <file name="mailicon-u177-r-fr.png" crc="4185825076" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="261605155" seo="true" mt="1500854055031" redirect="true"/>
+  <file name="index.html" crc="3923203801" seo="true" mt="1500854576640" redirect="true"/>
 </manifest>

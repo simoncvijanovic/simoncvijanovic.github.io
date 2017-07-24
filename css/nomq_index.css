@@ -10,9 +10,9 @@
 
 	#page
 	{
-		min-height: 1000px;
+		min-height: 999.9506711409385px;
 		padding-top: 62px;
-		padding-bottom: 62px;
+		padding-bottom: 62.04932885906146px;
 		max-width: 960px;
 	}
 
@@ -30,70 +30,58 @@
 		margin-top: 42px;
 		width: 95.84%;
 		margin-left: 2.09%;
-		left: 0px;
 	}
 
-	#pu160
+	#pu1313
 	{
-		z-index: 3;
-		margin-top: 4px;
-		width: 18.03%;
-		margin-left: 40.99%;
+		width: 26.98%;
+		margin-left: 36.52%;
 	}
 
-	#u160
+	#u1313
 	{
-		width: 50px;
-		height: 50px;
-		background-image: url("../images/twittericon-up.png?crc=100776720");
-		left: -86.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: -130.5px;
 	}
 
-	#u160:hover
+	#u1313:hover
 	{
-		background-image: url("../images/twittericon-over.png?crc=503429030");
-		margin-top: 0px;
-		width: 50px;
-		height: 50px;
-		left: -86.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: -130.5px;
 	}
 
-	#u143
+	#u1301
 	{
-		width: 50px;
-		height: 50px;
-		background-image: url("../images/igicon-layer%202.png?crc=3823056750");
-		left: -25.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: -36.5px;
 	}
 
-	#u143:hover
+	#u1301:hover
 	{
-		background-image: url("../images/igicon-layer%203.png?crc=464320745");
-		margin-top: 0px;
-		width: 50px;
-		height: 50px;
-		left: -25.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: -36.5px;
 	}
 
-	#u177
+	#u1289
 	{
-		width: 50px;
-		height: 50px;
-		background-image: url("../images/mailicon-up.png?crc=429306196");
-		left: 37.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: 59.5px;
 	}
 
-	#u177:hover
+	#u1289:hover
 	{
-		background-image: url("../images/mailicon-over.png?crc=4096995956");
-		margin-top: 0px;
-		width: 50px;
-		height: 50px;
-		left: 37.5px;
+		width: 70px;
+		margin-left: 50%;
+		left: 59.5px;
 	}
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 1167px);
+		height: calc(100vh - 1184px);
 	}
 

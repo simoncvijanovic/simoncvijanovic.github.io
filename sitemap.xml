@@ -2,37 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://simoncvijanovic.com/index.html</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://simoncvijanovic.com/images/twittericon.jpg</loc>
-    <lastmod>2017-07-23</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://simoncvijanovic.com/images/igicon.jpg</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://simoncvijanovic.com/images/landingart.png</loc>
-    <lastmod>2017-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://simoncvijanovic.com/images/landingart331x328.png</loc>
-    <lastmod>2017-07-23</lastmod>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://simoncvijanovic.com/images/mailicon.jpg</loc>
-    <lastmod>2017-07-23</lastmod>
+    <lastmod>2017-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://simoncvijanovic.com/images/giphy-downsized.gif</loc>
+    <lastmod>2017-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://simoncvijanovic.com/images/twittericon.jpg</loc>
+    <lastmod>2017-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

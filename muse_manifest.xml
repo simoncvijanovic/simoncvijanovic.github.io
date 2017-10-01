@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1500864268937">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="false" exportTarget="other" domain="simoncvijanovic.com" resolutions="1x" timestamp="1506843146342">
   <folder name="css">
     <file name="site_global.css" crc="4041403569"/>
-    <file name="index.css" crc="3838390331" ref="index"/>
-    <file name="nomq_index.css" crc="530722346" ref="index"/>
+    <file name="index.css" crc="172849370" ref="index"/>
+    <file name="nomq_index.css" crc="3873185687" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -15,12 +15,11 @@
   </folder>
   <folder name="images">
     <file name="coming-soon-favicon.ico" crc="4273547983" ref="index"/>
-    <file name="landingart.png" crc="125061310" seo="true" ref="index"/>
-    <file name="twittericon.jpg" crc="386876246" seo="true" ref="index"/>
-    <file name="igicon.jpg" crc="535525527" seo="true" ref="index"/>
     <file name="mailicon.jpg" crc="3832747431" seo="true" ref="index"/>
-    <file name="landingart331x328.png" crc="3795271717" seo="true" ref="index"/>
+    <file name="igicon.jpg" crc="535525527" seo="true" ref="index"/>
+    <file name="twittericon.jpg" crc="386876246" seo="true" ref="index"/>
+    <file name="giphy-downsized.gif" crc="3931175574" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="244545962" seo="true" mt="1500864255138" redirect="true"/>
+  <file name="index.html" crc="4012410377" seo="true" mt="1506843093954" redirect="true"/>
 </manifest>

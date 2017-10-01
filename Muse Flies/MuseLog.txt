@@ -1,0 +1,106 @@
+6694: Logging in build 2015.2.1.21 started at: Wed Jul 19 16:21:21 2017
+========================================
+
+==========
+6694: Logging ended at: Wed Jul 19 16:21:27 2017
+
+6709: Logging in build 2015.2.1.21 started at: Wed Jul 19 16:23:45 2017
+========================================
+6709: [00:00:14.577] 16:24:00.270 | Error - IMS : No AdobeID signed in
+6709: [01:14:01.206] 17:37:46.900 | Beginning SaveAs of 'Website-1' to file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:196
+6709: [01:14:02.870] 17:37:48.564 | SaveAs complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:622592 mod Date:Wed Jul 19 17:37:48 GMT-0700 2017 highest UID:196
+6709: [01:14:33.830] 17:38:19.524 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [03:03:23.395] 19:27:09.089 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:199
+6709: [03:03:25.078] 19:27:10.772 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:655360 mod Date:Wed Jul 19 19:27:10 GMT-0700 2017 highest UID:199
+6709: [03:03:36.390] 19:27:22.084 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [03:06:53.094] 19:30:38.787 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:199
+6709: [03:06:54.578] 19:30:40.272 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:655360 mod Date:Wed Jul 19 19:30:40 GMT-0700 2017 highest UID:199
+6709: [03:07:02.882] 19:30:48.576 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [03:11:43.996] 19:35:29.690 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:209
+6709: [03:11:46.119] 19:35:31.813 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:655360 mod Date:Wed Jul 19 19:35:31 GMT-0700 2017 highest UID:209
+6709: [03:11:52.539] 19:35:38.233 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [03:14:13.505] 19:37:59.198 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:209
+6709: [03:14:14.786] 19:38:00.480 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:655360 mod Date:Wed Jul 19 19:38:00 GMT-0700 2017 highest UID:209
+6709: [03:14:23.061] 19:38:08.755 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [03:16:59.370] 19:40:45.064 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:209
+6709: [03:17:00.577] 19:40:46.271 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:688128 mod Date:Wed Jul 19 19:40:46 GMT-0700 2017 highest UID:209
+6709: [03:17:07.522] 19:40:53.215 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [30:55:12.194] 23:18:57.888 | quitWithUI:Quitting Application. Called by: 
+6709: [95:46:25.039] 16:10:10.732 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:662
+6709: [95:46:26.374] 16:10:12.068 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:1048576 mod Date:Sun Jul 23 16:10:11 GMT-0700 2017 highest UID:662
+6709: [96:05:07.451] 16:28:53.145 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:1032
+6709: [96:05:09.122] 16:28:54.816 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:1081344 mod Date:Sun Jul 23 16:28:54 GMT-0700 2017 highest UID:1032
+6709: [96:06:28.848] 16:30:14.542 | Beginning Save for file '/Users/marjanfathi/Documents/Landing Page.muse' highest UID:1046
+6709: [96:06:30.246] 16:30:15.940 | Save complete for file '/Users/marjanfathi/Documents/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 16:30:15 GMT-0700 2017 highest UID:1046
+6709: [96:07:22.479] 16:31:08.172 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [96:11:26.448] 16:35:12.142 | Trying to open file '/Users/marjanfathi/Desktop/Export/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 16:30:15 GMT-0700 2017
+6709: [96:11:26.449] 16:35:12.143 | Opening file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 16:30:15 GMT-0700 2017 highestUID: 1046
+6709: [96:14:58.635] 16:38:44.329 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1100
+6709: [96:14:59.912] 16:38:45.606 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 16:38:45 GMT-0700 2017 highest UID:1100
+6709: [96:15:14.205] 16:38:59.899 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1100
+6709: [96:15:15.828] 16:39:01.522 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 16:39:01 GMT-0700 2017 highest UID:1100
+6709: [96:15:34.211] 16:39:19.905 | Trying to open file '/Users/marjanfathi/Desktop/Export/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 16:39:01 GMT-0700 2017
+6709: [96:15:34.213] 16:39:19.907 | Opening file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 16:39:01 GMT-0700 2017 highestUID: 1100
+6709: [96:20:46.708] 16:44:32.402 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [96:27:13.209] 16:50:58.903 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1104
+6709: [96:27:14.490] 16:51:00.184 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 16:51:00 GMT-0700 2017 highest UID:1104
+6709: [96:28:14.301] 16:51:59.995 | Trying to open file '/Users/marjanfathi/Desktop/Export/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 16:51:00 GMT-0700 2017
+6709: [96:28:14.302] 16:51:59.996 | Opening file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 16:51:00 GMT-0700 2017 highestUID: 1104
+6709: [96:30:49.485] 16:54:35.179 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1196
+6709: [96:30:50.741] 16:54:36.435 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 16:54:36 GMT-0700 2017 highest UID:1196
+6709: [96:31:05.344] 16:54:51.038 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [96:35:53.635] 16:59:39.329 | Trying to open file '/Users/marjanfathi/Desktop/Export/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 16:54:36 GMT-0700 2017
+6709: [96:35:53.637] 16:59:39.331 | Opening file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 16:54:36 GMT-0700 2017 highestUID: 1196
+6709: [96:38:14.890] 17:02:00.584 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1227
+6709: [96:38:16.655] 17:02:02.349 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 17:02:02 GMT-0700 2017 highest UID:1227
+6709: [96:38:57.100] 17:02:42.794 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1241
+6709: [96:38:58.360] 17:02:44.054 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 17:02:43 GMT-0700 2017 highest UID:1241
+6709: [96:39:21.896] 17:03:07.590 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1241
+6709: [96:39:23.443] 17:03:09.137 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 17:03:08 GMT-0700 2017 highest UID:1241
+6709: [96:39:35.350] 17:03:21.044 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [96:40:13.254] 17:03:58.948 | Trying to open file '/Users/marjanfathi/Desktop/Export/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 17:03:08 GMT-0700 2017
+6709: [96:40:13.255] 17:03:58.949 | Opening file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 17:03:08 GMT-0700 2017 highestUID: 1241
+6709: [96:40:56.701] 17:04:42.395 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' highest UID:1242
+6709: [96:40:58.445] 17:04:44.139 | Save complete for file '/Users/marjanfathi/Desktop/Export/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 17:04:43 GMT-0700 2017 highest UID:1242
+6709: [96:41:03.160] 17:04:48.854 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [97:34:32.090] 17:58:17.784 | Trying to open file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 17:04:43 GMT-0700 2017
+6709: [97:34:32.092] 17:58:17.786 | Opening file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 17:04:43 GMT-0700 2017 highestUID: 1242
+6709: [97:37:06.398] 18:00:52.092 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1284
+6709: [97:37:07.640] 18:00:53.334 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 18:00:53 GMT-0700 2017 highest UID:1284
+6709: [97:37:54.605] 18:01:40.299 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [97:48:30.967] 18:12:16.661 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [97:49:33.555] 18:13:19.249 | Trying to open file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 18:00:53 GMT-0700 2017
+6709: [97:49:33.557] 18:13:19.251 | Opening file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 18:00:53 GMT-0700 2017 highestUID: 1284
+6709: [98:01:35.678] 18:25:21.372 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1437
+6709: [98:01:36.922] 18:25:22.616 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 18:25:22 GMT-0700 2017 highest UID:1437
+6709: [98:02:15.890] 18:26:01.579 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1467
+6709: [98:02:17.547] 18:26:03.241 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 18:26:03 GMT-0700 2017 highest UID:1467
+6709: [98:02:22.840] 18:26:08.534 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [98:03:57.076] 18:27:42.770 | Trying to open file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 18:26:03 GMT-0700 2017
+6709: [98:03:57.079] 18:27:42.773 | Opening file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 18:26:03 GMT-0700 2017 highestUID: 1467
+6709: [98:04:56.963] 18:28:42.657 | Trying to open file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse with size:1114112 mod Date:Sun Jul 23 18:26:03 GMT-0700 2017
+6709: [98:04:56.965] 18:28:42.659 | Opening file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' with status:success size:1114112 mod Date:Sun Jul 23 18:26:03 GMT-0700 2017 highestUID: 1467
+6709: [98:22:54.730] 18:46:40.424 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1471
+6709: [98:22:56.499] 18:46:42.193 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 18:46:42 GMT-0700 2017 highest UID:1471
+6709: [98:23:52.168] 18:47:37.862 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [98:30:02.967] 18:53:48.661 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1479
+6709: [98:30:04.916] 18:53:50.610 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:1114112 mod Date:Sun Jul 23 18:53:50 GMT-0700 2017 highest UID:1479
+6709: [98:30:25.454] 18:54:11.148 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [98:40:43.692] 19:04:29.386 | Beginning SaveAs of 'Landing Page' to file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1483
+6709: [98:40:45.337] 19:04:31.031 | SaveAs complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:753664 mod Date:Sun Jul 23 19:04:30 GMT-0700 2017 highest UID:1483
+6709: [98:40:51.415] 19:04:37.109 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [98:44:02.676] 19:07:48.370 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1487
+6709: [98:44:04.495] 19:07:50.189 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:786432 mod Date:Sun Jul 23 19:07:49 GMT-0700 2017 highest UID:1487
+6709: [98:44:10.274] 19:07:55.968 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [99:18:40.679] 19:42:26.373 | Trying to open file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse with size:786432 mod Date:Sun Jul 23 19:07:49 GMT-0700 2017
+6709: [99:18:40.703] 19:42:26.397 | Opening file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' with status:success size:786432 mod Date:Sun Jul 23 19:07:49 GMT-0700 2017 highestUID: 1487
+6709: [99:20:36.070] 19:44:21.764 | Beginning Save for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' highest UID:1567
+6709: [99:20:37.860] 19:44:23.554 | Save complete for file '/Users/marjanfathi/Desktop/Export/Muse Flies/Landing Page.muse' file size:950272 mod Date:Sun Jul 23 19:44:23 GMT-0700 2017 highest UID:1567
+6709: [99:20:43.278] 19:44:28.972 | HTMLExport Landing Page(1 pages) to 'simoncvijanovic.com' completed with 0 warnings.
+6709: [100:31:51.427] 20:55:37.121 | quitWithUI:Quitting Application. Called by: 
+6709: [100:31:51.433] 20:55:37.127 | Quitting Application after 6031.8 minutes. Called by: 
+6709: [100:31:55.774] Logging shutdown normally
+
+==========
+6709: Logging ended at: Sun Jul 23 20:55:41 2017
+
